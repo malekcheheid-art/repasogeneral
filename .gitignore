@@ -1,0 +1,23 @@
+# Archivos ejecutables generados por el compilador
+*.exe
+*.out
+*.o
+*.obj
+
+# Binarios de salida
+src/repasogeneral.exe
+src/repasogeneral
+
+# Carpetas de configuracion del editor
+.vscode/
+.idea/
+
+# Archivos generados por el sistema operativo
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Archivos temporales
+*.tmp
+*.log
+*.bak
