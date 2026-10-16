@@ -52,16 +52,16 @@ repasogeneral/
 │   │   └── manual_usuario_v1.0.0.pdf
 │   └── CHANGELOG.md
 └── src/
-    ├── main.cpp
-    └── capturas/
-        ├── ejecucion_repasogeneral.png
-        └── traza_memoria.png
+    └── main.cpp
+└── capturas/
+    ├── ejecucion_repasogeneral.png
+    └── traza_memoria.png
 ```
 
 ## Evidencias
 
-Las capturas de ejecución local y el diagrama de la memoria RAM se almacenan en
-`src/capturas/`.
+Las capturas de ejecución local y el diagrama de la memoria RAM se almacenan en la
+carpeta `capturas/` de la raíz del repositorio.
 
 ## Enlaces de referencia
 
